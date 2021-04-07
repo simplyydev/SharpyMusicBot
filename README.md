@@ -45,4 +45,4 @@ Copy `example.env` to `.env` and fill it with your credentials.
 
 ## Credits
 
--[Sharpshooter](https://t.me/itshackerrReal): main developer 
+-[Sharpshooter](https://t.me/itshackerrReal): SC developer 
